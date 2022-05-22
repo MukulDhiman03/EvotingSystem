@@ -1,0 +1,52 @@
+.dashboard-btn {
+  font-weight: bolder;
+}
+
+.dashboard-btn:hover {
+  color: blue;
+  background-color: rgb(255, 255, 255);
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+#dashboard-container {
+  height: 68vh;
+}
+
+#data-container {
+  border: 4px solid rgb(85, 85, 236);
+}
+
+h3 {
+  height: 5vh;
+  background-color: rgb(85, 85, 236);
+  color: white;
+}
+
+#box1 {
+  color: rgb(237, 71, 71);
+  background-color: pink;
+  border: 1px solid rgb(146, 146, 236);
+}
+#box2 {
+  color: rgb(237, 71, 71);
+  background-color: pink;
+  border: 1px solid rgb(146, 146, 236);
+}
+#box3 {
+  color: rgb(237, 71, 71);
+  background-color: pink;
+  border: 1px solid rgb(146, 146, 236);
+}
+#box4 {
+  background-color: lightskyblue;
+  color: blue;
+}
+#box5 {
+  background-color: lightskyblue;
+  color: blue;
+}
+#box6 {
+  background-color: lightskyblue;
+  color: blue;
+}
